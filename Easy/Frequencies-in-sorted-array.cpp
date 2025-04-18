@@ -18,7 +18,6 @@ void Freq(int arr[],int n){
     }
 }
 
-
 int main(){
     int arr[] = {10,10,10,30,30,40,50};
     int n = 7;
