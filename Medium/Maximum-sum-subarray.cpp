@@ -11,8 +11,6 @@ int maxSum(int arr[],int n){
     return res;
 }
 
-
-
 int main(){
     int arr[] = {2,3,-8,7,-1,2,3};
     int n = 7;
