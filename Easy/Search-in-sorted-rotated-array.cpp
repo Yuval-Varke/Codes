@@ -1,8 +1,6 @@
 #include<iostream>
 using namespace std;
 
-
-
 int search(int arr[],int n,int x){
     int low = 0;
     int high = n-1;
